@@ -1,0 +1,19 @@
+{
+  "name": "angular2-query-builder",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0",
+    "@ng-select/ng-select": "^7.4.0"
+  },
+  "main": "bundles/angular2-query-builder.umd.js",
+  "module": "fesm2015/angular2-query-builder.js",
+  "es2015": "fesm2015/angular2-query-builder.js",
+  "esm2015": "esm2015/angular2-query-builder.js",
+  "fesm2015": "fesm2015/angular2-query-builder.js",
+  "typings": "angular2-query-builder.d.ts",
+  "sideEffects": false
+}
