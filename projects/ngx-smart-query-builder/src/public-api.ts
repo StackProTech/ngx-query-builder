@@ -1,5 +1,5 @@
 /*
- * Public API Surface of ngx-querybuilder
+ * Public API Surface of ngx-smart-query-builder
  */
 
 export * from './lib/query-builder/query-builder.interfaces';
@@ -16,4 +16,4 @@ export * from './lib/query-builder/query-remove-button.directive';
 export * from './lib/query-builder/query-empty-warning.directive';
 export * from './lib/query-builder/query-arrow-icon.directive';
 
-export * from './lib/ngx-querybuilder.module';
+export * from './lib/ngx-smart-query-builder.module';

@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../node_modules/ngx-querybuilder",
+  "dest": "../../node_modules/ngx-smart-query-builder",
   "lib": {
     "entryFile": "src/public-api.ts",
     "umdModuleIds": {

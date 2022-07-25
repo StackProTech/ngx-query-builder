@@ -1,5 +1,5 @@
 {
-  "name": "ngx-querybuilder",
+  "name": "ngx-smart-query-builder",
   "version": "0.0.3",
   "peerDependencies": {
     "@angular/common": "^12.0.5",

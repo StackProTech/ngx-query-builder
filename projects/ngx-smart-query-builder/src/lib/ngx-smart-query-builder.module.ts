@@ -46,4 +46,4 @@ import { NgSelectModule } from '@ng-select/ng-select';
     QueryArrowIconDirective
   ]
 })
-export class NgxQueryBuilderModule { }
+export class SmartQueryBuilderModule { }
