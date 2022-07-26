@@ -298,3 +298,6 @@ That's it.
 
 # Workflow
 See the [angular-library-seed](https://github.com/trekhleb/angular-library-seed) project for details on how to build and run tests.
+
+# Contributors
+[Amaan Farooq](https://github.com/Amaan-Farooq) , [Sonika Sharan](https://github.com/sonikasharan)
