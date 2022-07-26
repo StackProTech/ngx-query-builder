@@ -583,7 +583,7 @@ export class QueryBuilderComponent
     if (this.disabled || fieldValue == null) {
       return;
     }
-
+    rule.field = rule.tempField;
     const inputContext = this.inputContextCache.get(rule);
     const currentField = inputContext && inputContext.field;
 
